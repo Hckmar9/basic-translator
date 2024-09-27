@@ -1,4 +1,4 @@
-# 🗺️ Markdown Editor
+# 🗺️ Basic Translator
 
 This is a simple application for translating text from one language to another. It is built using Streamlit and the Googletrans library.
 
